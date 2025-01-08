@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GNDA Pin=D3-1
+Removed Pin From Net: NetName=+12 Pin=VR2-1
+Removed Member From Class: ClassName=myAmp Member=D3
+Removed Member From Class: ClassName=myAmp Member=VR2
