@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=C4 Old Footprint=C_MKP_THT New Footprint=C_0603_2
+Change Component Comment : Designator=C4 Old Comment=PHE426HD7100JR06L2 New Comment=
+Added Pin To Net: NetName=Audio_OUT_R_P Pin=C4-1
+Added Pin To Net: NetName=GNDB Pin=C4-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C21-1
+Add Pin To Net: Unknown Pin: Pin C21-2
+Add Pin To Net: Unknown Pin: Pin C28-1
+Add Pin To Net: Unknown Pin: Pin C28-2
+Added Member To Class: ClassName=myAmp Member=Component C4
+Added Member To Class: ClassName=myAmp Member=Component C11 PHE426HD7100JR06L2
+Added Member To Class: ClassName=myAmp Member=Component C21 PHE426HD7100JR06L2
+Added Member To Class: ClassName=myAmp Member=Component C28 PHE426HD7100JR06L2
