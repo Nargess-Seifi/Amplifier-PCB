@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=C2_Nets Member=EN
+Removed Member From Class: ClassName=C3_Nets Member=EN
+Removed Member From Class: ClassName=C7_Nets Member=EN
+Removed Member From Class: ClassName=C8_Nets Member=EN
+Removed Member From Class: ClassName=C64_Nets Member=EN
+Removed Member From Class: ClassName=C65_Nets Member=EN
+Removed Member From Class: ClassName=J6_Nets Member=EN
+Removed Member From Class: ClassName=U3_Nets Member=EN
+Removed Member From Class: ClassName=VR2_Nets Member=EN
+Change Net Name : Old Net Name=EN New Net Name=+36
+Added Member To Class: ClassName=C2_Nets Member=Wire +36
+Added Member To Class: ClassName=C3_Nets Member=Wire +36
+Added Member To Class: ClassName=C7_Nets Member=Wire +36
+Added Member To Class: ClassName=C8_Nets Member=Wire +36
+Added Member To Class: ClassName=C64_Nets Member=Wire +36
+Added Member To Class: ClassName=C65_Nets Member=Wire +36
+Added Member To Class: ClassName=J6_Nets Member=Wire +36
+Added Member To Class: ClassName=U3_Nets Member=Wire +36
+Added Member To Class: ClassName=VR2_Nets Member=Wire +36
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
