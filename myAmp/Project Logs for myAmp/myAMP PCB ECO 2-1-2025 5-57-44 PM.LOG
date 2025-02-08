@@ -1,5 +1,0 @@
-Removed Member From Class: ClassName=SCRW1_Nets Member=GNDA
-Added Member To Class: ClassName=myAmp Member=Component R19 Res Semi
-Added Member To Class: ClassName=myAmp Member=Component U1 OPA1612AID
-Added Member To Class: ClassName=myAmp Member=Component VR1 Volt Reg
-Added Member To Class: ClassName=SCRW1_Nets Member=Wire GNDB

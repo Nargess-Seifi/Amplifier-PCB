@@ -1,3 +1,0 @@
-Removed Pin From Net: NetName=GNDA Pin=SCRW1-1
-Added Pin To Net: NetName=GNDB Pin=SCRW1-1
-Added Member To Class: ClassName=myAmp Member=Component SCRW1 SCREW
